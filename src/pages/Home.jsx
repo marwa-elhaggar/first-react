@@ -1,5 +1,5 @@
 import profile from "../assets/images/avatar.svg";
-import Navbar from "./../components/Navbar";
+import Navbar from "../components/Navbar";
 import Footer from "../components/footer";
 
 export default function Home() {
