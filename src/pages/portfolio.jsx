@@ -1,5 +1,5 @@
 import Navbar from "../components/Navbar";
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 import Card from "../components/Card";
 import Modal from "../components/Modal";
 import photo1 from "../assets/images/port2.png";
